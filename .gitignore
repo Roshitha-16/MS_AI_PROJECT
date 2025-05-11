@@ -1,0 +1,12 @@
+__pycache__/
+*.h5
+*.zip
+*.pkl
+*.npz
+*.csv
+*.log
+*.jpg
+*.png
+*.ipynb_checkpoints/
+data/
+models/
