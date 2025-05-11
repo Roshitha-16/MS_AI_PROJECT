@@ -14,7 +14,6 @@ A deep learning project to detect human emotions from facial expressions in real
 
 ## 🛠️ Setup
 ```bash
-git clone https://github.com/yourusername/emotion-detection.git
 cd emotion-detection
 pip install -r requirements.txt
 python detect_emotion.py
